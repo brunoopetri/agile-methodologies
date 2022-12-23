@@ -10,5 +10,5 @@ Enfim, estudar e compreender como as metodologias ágeis são efetivadas no coti
 
 CONCEITO-CHAVE
 
-Aquilo que não é bom não dura por muito tempo. Se a seleção natural é infalívelna natureza, ela parece atuar com rigor semelhante no mundo dodesenvolvimento de software ao permitir que apenas as metodologias mais aptas sobrevivam ao teste do tempo. Foi por isso que o Modelo em Cascata atravessou algumas décadas oferecendo aos engenheiros de software um modo razoavelmente seguro e efetivo de criar seus produtos, em substituição ao desenvolvimento especulativo e caótico praticado antes da estruturação de metodologias de desenvolvimento de software.
+Aquilo que não é bom não dura por muito tempo. Se a seleção natural é infalível na natureza, ela parece atuar com rigor semelhante no mundo do desenvolvimento de software ao permitir que apenas as metodologias mais aptas sobrevivam ao teste do tempo. Foi por isso que o Modelo em Cascata atravessou algumas décadas oferecendo aos engenheiros de software um modo razoavelmente seguro e efetivo de criar seus produtos, em substituição ao desenvolvimento especulativo e caótico praticado antes da estruturação de metodologias de desenvolvimento de software.
 
